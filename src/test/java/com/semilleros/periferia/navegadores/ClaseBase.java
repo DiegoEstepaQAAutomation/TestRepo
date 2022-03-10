@@ -31,6 +31,9 @@ public class ClaseBase {
 		super();
 	}
 	
+	
+	//CLASE BASE CLASICA 
+	
 	//METODO NAVEGADOR
 	public WebDriver chromeDriverConnection()
 	{
